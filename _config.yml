@@ -22,12 +22,14 @@ title: AnonAmaze
 email: markc@anonamaze.co
 description: >- # this means to ignore newlines until "baseurl:"
   Protect your private or confidential information from A.I providers
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://anonamaze.co" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "anonamaze-static" # the subpath of your site, e.g. /blog
+url: "http://makrmark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AnonAmaze
-github_username: jekyll
+github_username: makrmark
 collections:
   authors:
+    output: true
+  features:
     output: true
 
 defaults:
@@ -45,6 +47,10 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: ""
+    values:
+      layout: "feature"
 
 # Build settings
 theme: minima
