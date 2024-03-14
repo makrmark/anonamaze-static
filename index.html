@@ -49,59 +49,17 @@ layout: default
     </div>
     <div class="col">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
-        <div class="col d-flex flex-column gap-2">
+
+        {% for feature in site.features %}
+        <div class="col d-flex flex-column gap-2 position-relative">
           <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-            <i class="bi bi-shield-check"></i>
+            <i class="{{ feature.icon }}"></i>
           </div>
-          <h4 class="fw-semibold mb-0">Transparent Anonymisation</h4>
-          <p class="text-muted">Ensure your private or confidential information stays secure through automatic and transparent anonymization of sensitive information in your chats.</p>
+          <h4 class="fw-semibold mb-0"><a href="{{ feature.url }}" class="text-decoration-none text-dark stretched-link">{{ feature.title }}</a></h4>
+          <p class="text-muted">{{ feature.description }}</p>
         </div>
-        <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-            <i class="bi bi-people"></i>
-          </div>
-          <h4 class="fw-semibold mb-0">Projects & Teams</h4>
-          <p class="text-muted">
-            Projects require a shared dictionary of sensitive information. Our Projects capability enables you to create &amp; share dictionaries, chats, and more with your teams!
-          </p>
-        </div>
-        <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-            <i class="bi bi-globe-asia-australia"></i>
-          </div>
-          <h4 class="fw-semibold mb-0">Data Sovereignty</h4>
-          <p class="text-muted">Your sensitive data stays within your chosen geography. AnonAmaze is already available in a number of geographic regions.</p>
-        </div>
-        <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-            <i class="bi bi-person-lock"></i>
-          </div>
-          <h4 class="fw-semibold mb-0">Protect your Identity</h4>
-          <p class="text-muted">We won't share your personal information such as your name, email address, IP address, or location with our AI provider.
-          </p>
-        </div>
-        <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-            <i class="bi bi-building-lock"></i>
-          </div>
-          <h4 class="fw-semibold mb-0">Data Loss Prevention</h4>
-          <p class="text-muted">Our smart tools reduce the risk of unintentional sharing of sensitive information.
-          </p>
-        </div>
-        <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-            <i class="bi bi-person-bounding-box"></i>
-          </div>
-          <h4 class="fw-semibold mb-0">Privacy Audits</h4>
-          <p class="text-muted">Automatically assess your chat message for potential privacy or confidentiality issues for assurance and re-enforcement of policy.</p>
-        </div>
-        <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-            <i class="bi bi-database-lock"></i>
-          </div>
-          <h4 class="fw-semibold mb-0">Strong Encryption</h4>
-          <p class="text-muted">Your sensitive data is stored locally on our servers using strong encryption (AES).</p>
-        </div>
+        {% endfor %}
+
       </div>
     </div>
   </div>
