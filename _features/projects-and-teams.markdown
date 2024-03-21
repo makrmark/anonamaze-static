@@ -16,6 +16,8 @@ order: 2
 
 In the fast-paced world of project management, efficient communication and secure collaboration are paramount. Our Projects feature offers you a powerful tool to streamline your team's workflow while safeguarding your confidential information.
 
+<iframe class="youtube-video" src="https://www.youtube.com/embed/bOyhp1VUndc?si=LXQal1NYz0NjZc79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 ## Centralize Your Confidential Data
 

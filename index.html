@@ -9,14 +9,16 @@ layout: default
   <div class="row align-items-start g-5 py-2">
     <nav data-bs-theme="dark" class="bg-dark rounded-3 p-3">
       <span class="p-3 mb-0 h3 no-wrap text-white">
-        <img src="assets/img/logo_white_transparent.svg" height="80px" class="d-inline-block align-text-bottom" alt="Logo">
+        <img src="assets/img/logo_white_transparent.svg" height="80px" class="d-inline-block align-text-bottom"
+          alt="Logo">
         AnonAmaze</img>
     </nav>
     <div class="col-lg-6">
       <h1 class="visually-hidden">AnonAmaze</img>
-      <h2 class="display-5 fw-bold lh-1 mb-3">Chat with A.I., Securely</h2>
-      <p class="fs-4 text-muted">Don't let information privacy or security concerns prevent you from engaging the power of Generative A.I!</p>
-      <img src="assets/img/person-computer-charts-1260x593.jpg", width="100%", alt="person working at a computer">
+        <h2 class="display-5 fw-bold lh-1 mb-3">Chat with A.I., Securely</h2>
+        <p class="fs-4 text-muted">Don't let information privacy or security concerns prevent you from engaging the
+          power of Generative A.I!</p>
+        <img src="assets/img/person-computer-charts-1260x593.jpg" , width="100%" , alt="person working at a computer">
     </div>
     <div class="col-lg-6">
       <div class="card bg-light">
@@ -31,10 +33,13 @@ layout: default
         </div>
         <div class="card-footer">
           <p class="text-danger text-center small mb-0">We've just launched!<br>
-            Reach out to us on 
-            <a href="https://www.linkedin.com/company/anonamaze" class="text-decoration-none"> <i class="bi bi-linkedin"></i> LinkedIn</a> or<br>
-            <a href="https://twitter.com/AnonAmaze" class="text-decoration-none"><i class='bi bi-twitter-x'></i> Twitter/X</a> or 
-            <a href="{{ site.baseurl }}/contact.html" class="text-decoration-none"><i class="bi bi-envelope"></i> Contact Us</a>
+            Reach out to us on
+            <a href="https://www.linkedin.com/company/anonamaze" class="text-decoration-none"> <i
+                class="bi bi-linkedin"></i> LinkedIn</a> or<br>
+            <a href="https://twitter.com/AnonAmaze" class="text-decoration-none"><i class='bi bi-twitter-x'></i>
+              Twitter/X</a> or
+            <a href="{{ site.baseurl }}/contact.html" class="text-decoration-none"><i class="bi bi-envelope"></i>
+              Contact Us</a>
           </p>
         </div>
       </div>
@@ -47,18 +52,22 @@ layout: default
     <div class="col d-flex flex-column align-items-start gap-2">
       <h2 class="display-4 fw-bold lh-1 mb-3">Key Features</h2>
       <p class="lead text-muted">Engage the power of Generative A.I. while maintaining privacy and confidentiality.</p>
-      <iframe class="youtube-video" src="https://www.youtube.com/embed/WxEqZOdOnt8?si=_0yHq0BMdbfkEwOQ&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share" allowfullscreen></iframe>
-      <iframe class="youtube-video" src="https://www.youtube.com/embed/SnyMOQCJQHg?si=Xr-R_rLOykaV9sp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe class="youtube-video" src="https://www.youtube.com/embed/smQ82OYE7dk?si=9HP-STbmUZztmf8E"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="col">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
 
         {% for feature in site.features %}
         <div class="col d-flex flex-column gap-2 position-relative">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
             <i class="{{ feature.icon }}"></i>
           </div>
-          <h4 class="fw-semibold mb-0"><a href="{{ feature.url }}" class="text-decoration-none text-dark stretched-link">{{ feature.title }}</a></h4>
+          <h4 class="fw-semibold mb-0"><a href="{{ feature.url }}"
+              class="text-decoration-none text-dark stretched-link">{{ feature.title }}</a></h4>
           <p class="text-muted">{{ feature.description }}</p>
         </div>
         {% endfor %}
@@ -78,36 +87,41 @@ layout: default
     <div class="col">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
         <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-success bg-gradient fs-4 rounded-3">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-success bg-gradient fs-4 rounded-3">
             <i class="bi bi-globe-asia-australia"></i>
           </div>
           <h4 class="fw-semibold mb-0">Your Region</h4>
           <p class="text-muted">We can easily expand into new regions through our cloud hosting partners. Just ask!</p>
         </div>
         <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-success bg-gradient fs-4 rounded-3">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-success bg-gradient fs-4 rounded-3">
             <i class="bi bi-building-lock"></i>
           </div>
           <h4 class="fw-semibold mb-0">Self-Hosting</h4>
-          <p class="text-muted">We make it easy to host AnonAmaze on a dedicated instance in your region, or even on your own servers.</p>
+          <p class="text-muted">We make it easy to host AnonAmaze on a dedicated instance in your region, or even on
+            your own servers.</p>
         </div>
         <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-success bg-gradient fs-4 rounded-3">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-success bg-gradient fs-4 rounded-3">
             <i class="bi bi-shield-check"></i>
           </div>
           <h4 class="fw-semibold mb-0">Security Compliance</h4>
-          <p class="text-muted">We're targeting information security compliance, prioritising Privacy and Confidentiality requirements.</p>
+          <p class="text-muted">We're targeting information security compliance, prioritising Privacy and
+            Confidentiality requirements.</p>
         </div>
         <div class="col d-flex flex-column gap-2">
-          <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-success bg-gradient fs-4 rounded-3">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-success bg-gradient fs-4 rounded-3">
             <i class="bi bi-geo"></i>
           </div>
           <h4 class="fw-semibold mb-0">Local Classification &amp; Audit</h4>
-          <p class="text-muted">We're developing local privacy information classifiers to improve performance and independence.</p>
+          <p class="text-muted">We're developing local privacy information classifiers to improve performance and
+            independence.</p>
         </div>
       </div>
     </div>
   </div>
 </div>
-
-
