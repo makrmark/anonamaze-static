@@ -6,10 +6,11 @@ title: Privacy Audits
 keywords: 
 description: Automatically assess your chat message for potential privacy or confidentiality issues for assurance and re-enforcement of policy.
 order: 6
+cta: for assurance that your conversations are protected and your data remains secure.
 ---
 
-
 # Privacy Audits
+**Increase awareness and compliance of privacy and security concerns within your organisation**
 
 Ensure the safety and security of your conversations with our Privacy Audits feature. By automatically assessing your chat messages, we provide you with peace of mind by identifying and addressing potential privacy or confidentiality issues in real-time. Our tool serves as a proactive measure to reinforce existing policies and maintain a secure communication environment.
 
@@ -46,6 +47,4 @@ Ensure the safety and security of your conversations with our Privacy Audits fea
 - **Peace of Mind:** Trust in our advanced technology to safeguard your sensitive information and maintain a secure communication environment.
 
 ---
-
-Don't compromise on privacy. With our Privacy Audits feature, rest assured that your conversations are protected and your data remains secure.
 

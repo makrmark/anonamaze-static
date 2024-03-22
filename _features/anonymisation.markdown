@@ -5,9 +5,12 @@ icon: bi bi-shield-check
 title: Anonymization
 description: Ensure your private or confidential information stays secure through automatic and transparent anonymization of sensitive information in your chats.
 keywords:
+cta: to experience the peace of mind that comes with secure communication.
 order: 1
 ---
 # Transparent Anonymisation
+
+**Protecting Your Privacy, One Conversation at a Time.**
 
 Safeguarding your private and confidential information has never been easier. Our innovative technology ensures that your sensitive data remains secure through automatic and transparent anonymization in your chats.
 
@@ -38,10 +41,6 @@ Anonymization works by substituting the suspected sensitive phrase with a random
 Our commitment to privacy and security drives us to offer innovative solutions like Transparent Anonymisation. Whether you are discussing sensitive matters with colleagues, sharing personal details with friends, or engaging in confidential conversations, our feature provides a protective shield around your data.
 
 Don't compromise on the security of your private information. Embrace Transparent Anonymisation and chat confidently knowing that your sensitive data is shielded from unwanted exposure.
-
-> *Protecting Your Privacy, One Conversation at a Time.*
-
-To integrate Transparent Anonymisation into your chats and experience the peace of mind that comes with secure communication. XXX
 
 ---
 

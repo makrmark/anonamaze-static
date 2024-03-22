@@ -5,10 +5,12 @@ icon: bi bi-database-lock
 title: Strong Encryption
 description: Your sensitive data is stored locally on our servers using strong encryption (AES).
 keywords:
+cta: to protect your sensitive information with the power of strong encryption.
 order: 7
 ---
 
 # Your Sensitive Information, Secured.
+**Stay safe, stay secure with AnonAmaze.**
 
 At AnonAmaze, we take the security and privacy of your data seriously. That's why we implement strong encryption measures to safeguard your sensitive information. Our encryption method of choice is Advanced Encryption Standard (AES), a widely recognized and trusted encryption algorithm.
 
@@ -37,8 +39,4 @@ Our commitment to strong encryption means that your information is protected not
 ## Secure Your Data Today
 
 Protect your sensitive information with the power of strong encryption. Choose AnonAmaze for a secure and reliable data storage solution that prioritizes the privacy and security of your valuable data.
-
-Contact us today to learn more about our encryption practices and how we can help safeguard your information effectively.
-
-**Stay safe, stay secure with AnonAmaze.**
 

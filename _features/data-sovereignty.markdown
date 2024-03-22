@@ -4,11 +4,14 @@ author: markc
 icon: bi bi-globe-asia-australia
 title: Data Sovereignty
 description: Your sensitive data stays within your chosen geography. AnonAmaze is already available in a number of geographic regions.
+cta: to capitalize on your data assets while maintaining security and compliance. 
 order: 3
 ---
 
 
 # Data Sovereignty
+
+**Liberate your data. Choose AnonAmaze for data sovereignty.**
 
 ---
 
@@ -34,7 +37,4 @@ With **AnonAmaze**, you have the power to maintain control over the location of 
 - **Flexibility**: Access **AnonAmaze** from multiple geographic regions to suit your business needs.
 - **Peace of Mind**: Trust in our platform to prioritize data sovereignty and protection at all times.
 
-Choose **AnonAmaze** for data sovereignty that puts you in control of your data while ensuring security and compliance. Experience the difference in data protection and sovereignty with **AnonAmaze**.
-
-*Empower your data. Choose AnonAmaze for data sovereignty.*
 

@@ -4,10 +4,12 @@ author: markc
 icon: bi bi-person-lock
 title: Private Chat
 description: We won't share your personal information such as your name, email address, IP address, or location with our AI provider.
+cta: to explore A.I. safely and confidentially
 order: 7
 ---
 
 # Chat with A.I., Privately
+**Explore the world of A.I. safely and confidentially!**
 
 Don't let information privacy or security concerns prevent you from engaging the power of Generative A.I. **AnonAmaze** allows you to communicate with Artificial Intelligence in a secure environment without compromising your personal data.
 
@@ -21,5 +23,4 @@ At **AnonAmaze**, we prioritize your privacy. We understand the significance of 
 
 > Note: Your privacy and data security are our top priorities. We are committed to protecting your identity and ensuring a confidential experience when interacting with AI technology. You can chat with A.I. without worrying about your personal information being compromised.
 
-*Explore the world of A.I. safely and confidentially!*
 

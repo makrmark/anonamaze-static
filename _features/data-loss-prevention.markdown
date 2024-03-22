@@ -4,10 +4,12 @@ author: markc
 icon: bi bi-building-lock
 title: Data Loss Prevention
 description: Our smart tools reduce the risk of unintentional sharing of sensitive information.
+cta: to safeguard your organization's sensitive data.
 order: 5
 ---
 
 # Data Loss Prevention (DLP)
+**Empowering Organizations with Secure Data Management and Protection**
 
 ---
 
@@ -31,8 +33,6 @@ With our "human-in-the-loop" approach to anonymizing sensitive content, you can 
 
 ---
 
-Join AnonAmaze today and leverage our cutting-edge Data Loss Prevention capabilities to safeguard your organization's sensitive data and maintain data security with confidence.
 
 
-*Empowering Organizations with Secure Data Management and Protection*
 

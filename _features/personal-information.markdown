@@ -5,10 +5,13 @@ icon: bi bi-person-lock
 title: Personal Information
 description: We won't share your personal information such as your name, email address, IP address, or location with our AI provider.
 keywords:
+cta: to safeguard your identify and ensure your privacy
 order: 4
 ---
 
 # Protect Your Identity
+**Safeguard Your Identity, Ensure Your Privacy**
+
 
 At **AnonAmaze**, we prioritize safeguarding your privacy and ensuring the protection of your identity. Here's how we ensure that your personal information remains confidential and secure:
 
@@ -29,6 +32,3 @@ At **AnonAmaze**, we prioritize safeguarding your privacy and ensuring the prote
 The only personal information AnonAmaze shares with our AI partner is a SHA256 cryptographic hash of your email address, which is provided to aid in support purposes. This non-reversable cryptographic hash ensures that your email remains protected and unidentifiable throughout our operations.
 
 Your privacy is our utmost priority at AnonAmaze. Join us in our commitment to protecting your identity and engaging in secure interactions online.
-
-
-***AnonAmaze:** Safeguarding Your Identity, Ensuring Your Privacy*
