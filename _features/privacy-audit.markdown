@@ -4,7 +4,7 @@ author: markc
 icon: bi bi-person-bounding-box
 title: Privacy Audits
 keywords: 
-description: Automatically assess your chat message for potential privacy or confidentiality issues for assurance and re-enforcement of policy.
+description: Automatically assess your chat message for potential privacy or confidentiality issues.
 order: 6
 cta: for assurance that your conversations are protected and your data remains secure.
 ---

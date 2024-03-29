@@ -3,9 +3,9 @@ layout: feature
 author: markc
 icon: bi bi-globe-asia-australia
 title: Data Sovereignty
-description: Your sensitive data stays within your chosen geography. AnonAmaze is already available in a number of geographic regions.
+description: Your sensitive data stays within your chosen geography.
 cta: to capitalize on your data assets while maintaining security and compliance. 
-order: 3
+order: 5
 ---
 
 

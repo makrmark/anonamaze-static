@@ -3,7 +3,7 @@ layout: feature
 author: markc
 icon: bi bi-database-lock
 title: Strong Encryption
-description: Your sensitive data is stored locally on our servers using strong encryption (AES).
+description: Your sensitive data is kept secure through strong encryption.
 keywords:
 cta: to protect your sensitive information with the power of strong encryption.
 order: 7

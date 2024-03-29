@@ -3,7 +3,7 @@ layout: feature
 author: markc
 icon: bi bi-shield-check
 title: Anonymization
-description: Ensure your private or confidential information stays secure through automatic and transparent anonymization of sensitive information in your chats.
+description: Ensure your private or confidential information stays secure through automatic and transparent anonymization.
 keywords:
 cta: to experience the peace of mind that comes with secure communication.
 order: 1

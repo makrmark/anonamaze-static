@@ -3,7 +3,7 @@ layout: feature
 author: markc
 icon: bi bi-people
 title: Projects and Teams
-description: Projects require a shared dictionary of sensitive information. Our Projects capability enables you to create &amp; share dictionaries, chats, and more with your teams!
+description: Our Projects capability enables you to create &amp; share dictionaries, chats, and more with your teams!
 cta: for secure collaboration and elevated team performance
 order: 2
 ---
