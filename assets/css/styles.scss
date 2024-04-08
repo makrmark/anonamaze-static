@@ -20,3 +20,33 @@
     border-width: 1px 0;
     box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .05), inset 0 .125em .5em rgba(0, 0, 0, .07);
 }
+
+.lite-youtube-fallback {
+	aspect-ratio: 16 / 9; /* matches YouTube player */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 1em;
+	padding: 1em;
+	background-color: #000;
+	color: #fff;
+	text-decoration: none;
+}
+
+/* right-facing triangle "Play" icon */
+.lite-youtube-fallback::before {
+	display: block;
+	content: '';
+	border: solid transparent;
+	border-width: 2em 0 2em 3em;
+	border-left-color: red;
+}
+
+.lite-youtube-fallback:hover::before {
+	border-left-color: #fff;
+}
+
+.lite-youtube-fallback:focus {
+	outline: 2px solid red;
+}
