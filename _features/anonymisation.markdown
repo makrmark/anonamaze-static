@@ -2,7 +2,7 @@
 layout: feature
 author: markc
 icon: bi bi-shield-check
-title: Anonymization
+title: Transparent Anonymisation
 description: Ensure your private or confidential information stays secure through automatic and transparent anonymization.
 keywords:
 cta: to experience the peace of mind that comes with secure communication.
