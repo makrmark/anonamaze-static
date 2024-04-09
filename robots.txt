@@ -1,4 +1,5 @@
-User-agent: * 
-Disallow: 
-
-Sitemap: /sitemap.xml
+---
+layout: none
+---
+User-agent: *
+Sitemap: {{ "sitemap.xml" | absolute_url }}
