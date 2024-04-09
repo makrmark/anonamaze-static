@@ -1,5 +1,6 @@
 ---
 layout: none
+permalink: /robots.txt
 ---
 User-agent: *
-Sitemap: {{site.host}}{{site.baseurl}}/sitemap.xml
+Sitemap: https://anonamaze.co/sitemap.xml
