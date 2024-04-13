@@ -18,8 +18,8 @@ order: 2
 
 In the fast-paced world of project management, efficient communication and secure collaboration are paramount. Our Projects feature offers you a powerful tool to streamline your team's workflow while safeguarding your confidential information.
 
-<lite-youtube videoid="bOyhp1VUndc" videotitle="AnonAmaze Walkthrough" 
-    class="youtube-video" params="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+<lite-youtube videoid="bOyhp1VUndc" videotitle="AnonAmaze Projects and Teams Walkthrough" 
+    class="youtube-video" params="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" autoload>
     <a class="lite-youtube-fallback" href="https://www.youtube.com/watch?v=bOyhp1VUndc">Watch on YouTube: "AnonAmaze Projects Walkthrough"</a>
 </lite-youtube>
 

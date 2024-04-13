@@ -14,6 +14,11 @@ cta: for assurance that your conversations are protected and your data remains s
 
 Ensure the safety and security of your conversations with our Privacy Audits feature. By automatically assessing your chat messages, we provide you with peace of mind by identifying and addressing potential privacy or confidentiality issues in real-time. Our tool serves as a proactive measure to reinforce existing policies and maintain a secure communication environment.
 
+<lite-youtube videoid="ORB7Zq5zRjg" videotitle="AnonAmaze Privacy Walkthrough" 
+    class="youtube-video" params="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" autoload>
+    <a class="lite-youtube-fallback" href="https://www.youtube.com/watch?v=bOyhp1VUndc">Watch on YouTube: "AnonAmaze Privacy Audits Walkthrough"</a>
+</lite-youtube>
+
 ---
 
 ## What We Check For:
